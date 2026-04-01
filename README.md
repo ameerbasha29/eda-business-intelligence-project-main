@@ -67,10 +67,6 @@ Provides insights into customer purchasing behavior including:
 ```
 eda-business-intelligence-project/
 │
-├── data/
-│   ├── Superstore_Sales.csv
-│   ├── E-commerce_Sales.csv
-│   └── Customer_Purchase.csv
 │
 ├── eda_analysis.py
 ├── sql_queries.sql
