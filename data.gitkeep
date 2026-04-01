@@ -1,8 +1,1 @@
--- Top 5 products from Superstore
-SELECT product_name, SUM(sales) AS revenue
-FROM superstore_sales
-GROUP BY product_name
-ORDER BY revenue DESC
-LIMIT 5;
-
 
